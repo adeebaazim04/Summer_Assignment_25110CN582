@@ -9,5 +9,5 @@ int main ()
         sum+=i;
     }
     printf("sum=%d",sum);
-    return 0;
+    return 0; 
 }
